@@ -1,4 +1,4 @@
-# Image-portfolio
+# Responsive Image Gallary
 Simple image portfolio website (Responsive)
 
 Really surprised of myself that i have created this website.
